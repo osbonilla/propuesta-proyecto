@@ -242,7 +242,6 @@ Para que el ráster (anomalía) y las capas vectoriales (límites de región res
 | Backend / API | **FastAPI** (Python) | Sirve series y estadísticas ya procesadas |
 | Almacenamiento ligero | **SQLite** o archivos **Parquet** | Series agregadas para respuesta rápida del backend |
 | Manipulación de datos | **Pandas**, **NumPy** | Limpieza y cálculos auxiliares en el pipeline |
-| Despliegue | Frontend: hosting estático (Vercel/Netlify). Backend: contenedor Docker (Uvicorn) | Separación de despliegue frontend/backend |
 
 ---
 
