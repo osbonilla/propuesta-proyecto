@@ -1,7 +1,9 @@
 # Propuesta de Proyecto de Visualización de Datos
 ## El Niño en Ecuador: Visualizador Web de Anomalías Climáticas (ERA5 + ArcGIS + Svelte)
 
+**Universidad San Francisco de Quito**
 **Maestría en Ciencia de Datos — Curso de Visualización de Datos**
+**Oldrin Santiago Bonilla Cáceres**
 
 ---
 
