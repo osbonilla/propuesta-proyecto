@@ -9,7 +9,7 @@
 
 ---
 
-## Resumen Ejecutivo
+## Resumen de la propuesta
 
 Se propone el desarrollo de una **aplicación web interactiva** que permita explorar cómo el fenómeno de El Niño–Oscilación del Sur (ENSO) se traduce en impactos climáticos diferenciados dentro de Ecuador. El mapa es el eje central de la exploración: una superficie continua de anomalía oceánica (causa) conectada visual e interactivamente con la respuesta terrestre. El procesamiento de datos se realiza íntegramente con Python dentro de ArcGIS Pro Notebooks (ArcPy), los servicios se publican en ArcGIS Online, y el entregable final es una app propia con **frontend en Svelte** (embebiendo el **ArcGIS Maps SDK for JavaScript**) y **backend en Python/FastAPI** para series y estadísticas contextuales. El proyecto está delimitado a un alcance realista y ejecutable.
 
