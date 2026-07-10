@@ -153,15 +153,15 @@ Para mantener el proyecto factible dentro de un semestre académico, se fija exp
 
 ### 5.2 Cronograma propuesto
 
-| Fase | Semanas | Entregable |
+| Fase | Fechas | Entregable |
 |---|---|---|
-| 1. Definición y obtención de datos | 1–2 | Datasets descargados y validados (ONI, SST, ERA5, límites regionales) |
-| 2. Procesamiento piloto (ArcPy) | 3–4 | Notebook funcional con cálculo de anomalías para un evento de prueba |
-| 3. Publicación de servicios (AGOL) | 5–6 | Image Service y Feature Service con tiempo habilitado, validados y sincronizados |
-| 4. Backend (FastAPI) | 7–8 | Endpoints funcionando con datos reales (sección 6) |
-| 5. Frontend (Svelte + ArcGIS Maps SDK) | 9–10 | App integrada: mapa + panel + time slider funcionando end-to-end |
-| 6. Pruebas y ajuste de diseño | 11 | Ajustes de paleta, leyenda, usabilidad tras retroalimentación |
-| 7. Documentación y presentación final | 12 | Informe, repositorio y demo funcional |
+| 1. Definición y obtención de datos | Sáb 11 – Dom 12 jul (2 días) | Datasets descargados y validados (ONI, SST, ERA5, límites regionales) |
+| 2. Procesamiento piloto (ArcPy) | Lun 13 – Mié 15 jul (3 días) | Notebook funcional con cálculo de anomalías para un evento de prueba |
+| 3. Publicación de servicios (AGOL) | Jue 16 – Vie 17 jul (2 días) | Image Service y Feature Service con tiempo habilitado, validados y sincronizados |
+| 4. Backend (FastAPI) | Sáb 18 – Dom 19 jul (2 días) | Endpoints funcionando con datos reales (sección 6) |
+| 5. Frontend (Svelte + ArcGIS Maps SDK) | Lun 20 – Mié 22 jul (3 días) | App integrada: mapa + panel + time slider funcionando end-to-end |
+| 6. Pruebas y ajuste de diseño | Jue 23 jul (1 día) | Ajustes de paleta, leyenda, usabilidad tras retroalimentación |
+| 7. Documentación y presentación final | Vie 24 – Sáb 25 jul (2 días) | Informe, repositorio y demo funcional |
 
 ### 5.3 Riesgos y estrategias de mitigación
 
